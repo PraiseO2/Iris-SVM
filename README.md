@@ -1,2 +1,2 @@
-# Iris-SVM
-Predicting iris dataset using SVM
+# Iris-SVM-KNN
+Predicting iris dataset using SVM and KNN
